@@ -1,0 +1,30 @@
+1.GitHub Account Okay
+
+2.Development Setup Okay
+
+3.Repository Okay
+
+4. Create Html 3 mockups for desktop, tablet, and mobile
+
+5. Create CSS folder and Create CSS file for all external style and layout
+6. Dont Use any framework
+
+7. breakpoints desktop (992px and above), 
+tablet (between 768px and 991px), and mobile (equal to or less than 767px)
+
+8. Site should consists of page heading and 3 sections See photo, you can make dummy text
+
+9. Desktop view 3 section with equal amount of space ( use percentage to define width and use float L.24)
+
+10. Tablet view 2 section should on the first row and the 3rd section will occupy the second row
+
+11. Mobile each section take up the entire row
+
+12. Section title region: Each section must have title(any) in top right corner no matter the view
+
+13. make sure the dummy text is "pushed down" (use margin padding and border-box L.19)
+
+14. Border for section and section title region must be 1px thick.
+Same background color section & diff. color for STR. the text must be readable
+
+15.percentage font size; 75% larger font size of the heading section title and 25% dummy text
